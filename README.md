@@ -18,8 +18,8 @@ $ python manage.py runserver
 
 ```
 
-URLS [
+Urls:
 http://localhost:8000/api/create
 http://localhost:8000/api/update/<int:pk>
 http://localhost:8000/api/delete/<int:pk>
-]
+
