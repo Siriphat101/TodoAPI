@@ -20,6 +20,6 @@ $ python manage.py runserver
 
 ## Urls:
   * http://localhost:8000/api/create
-  * http://localhost:8000/api/update/<int:pk>
-  * http://localhost:8000/api/delete/<int:pk>
+  * http://localhost:8000/api/update/id
+  * http://localhost:8000/api/delete/id
 
