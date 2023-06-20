@@ -3,7 +3,7 @@ API for Create, Update and Delete data from todo app
 
 ## build setup:
 ```bash
-# from folder ToDoAPI 
+# from folder ToDoList 
 $ pip install -r requirement.txt
 
 # make migrations file
