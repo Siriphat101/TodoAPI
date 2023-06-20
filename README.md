@@ -1,7 +1,7 @@
 # TodoAPI
 API for Create, Update and Delete data from todo app
 
-build setup:
+## build setup:
 ```bash
 # from folder ToDoAPI 
 $ pip install -r requirement.txt
@@ -18,8 +18,8 @@ $ python manage.py runserver
 
 ```
 
-Urls:
-http://localhost:8000/api/create
-http://localhost:8000/api/update/<int:pk>
-http://localhost:8000/api/delete/<int:pk>
+## Urls:
+  http://localhost:8000/api/create
+  http://localhost:8000/api/update/<int:pk>
+  http://localhost:8000/api/delete/<int:pk>
 
